@@ -1,0 +1,3 @@
+﻿# Autores
+
+- Lola Pinkbit (@lolapinkbit)
